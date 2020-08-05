@@ -31,7 +31,8 @@
 <br />
 <br />
 
-<img align="left" alt="g33kzone Github Stats" src="https://github-readme-stats.vercel.app/api?username=manish6385&show_icons=true&hide_border=true" />
+<img align="left" alt="g33kzone Github Stats" src="https://github-readme-stats.vercel.app/api?username=manish6385&show_icons=true&hide_border=false" />
+<img align="left" alt="g33kzone Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manish6385&show_icons=true&hide_border=false" />
 
 [website]: https://www.g33kzone.com/
 [twitter]: https://twitter.com/g33kzoneblog
