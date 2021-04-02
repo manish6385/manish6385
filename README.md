@@ -4,7 +4,7 @@
 - 🔭 Currently working on a [DevOps website][website]!
 - 🌱 I’m am ardent technophile with a curious mind 🤣
 - 👯 Looking forward to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to click - helps having a perspective to world [500px] 
 
 ### Connect with me:
