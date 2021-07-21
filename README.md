@@ -1,4 +1,4 @@
-### Hi there, I'm Manish - aka [g33kzone][website] 👋
+### Hi there, I'm Manish - aka [g33kzone][github] 👋
 
 Welcome to my page!
 I'm Manish, DevOps Architect from <img src="https://image.flaticon.com/icons/png/512/3909/3909444.png" width="20"/> <b>Pune, India</b>
