@@ -11,6 +11,11 @@ I'm Manish, DevOps Architect from <img src="https://image.flaticon.com/icons/png
 
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Terraform -Automate CI/CD Workflows via GitHub Actions](https://dev.to/g33kzone/terraform-automate-ci-cd-workflows-via-github-actions-307j)
+- [Terraform - Code Structure](https://dev.to/g33kzone/terraform-code-structure-3nhj)
+- [Configuring Jenkins on AWS EC2 Instance](https://dev.to/g33kzone/configuring-jenkins-on-aws-ec2-instance-3apl)
+- [Jenkins - Getting Started](https://dev.to/g33kzone/jenkins-getting-started-43cd)
+- [Create AWS IAM User with Programmatic Access](https://dev.to/g33kzone/create-aws-iam-user-with-programmatic-access-1g2k)
 <!-- BLOG-POST-LIST:END -->
 
 ### Connect with me:
