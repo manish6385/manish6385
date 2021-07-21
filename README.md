@@ -1,6 +1,8 @@
 ### Hi there, I'm Manish - aka [g33kzone][website] 👋
 
-## I'm a Husband, Developer, and Teacher!
+Welcome to my page!
+I'm Manish, DevOps Architect from <img src="https://image.flaticon.com/icons/png/512/3909/3909444.png" width="20"/> <b>Pune, India</b>
+
 - 🔭 Currently working on a [DevOps website][website]!
 - 🌱 I’m am ardent technophile with a curious mind 🤣
 - 👯 Looking forward to collaborate with other content creators
@@ -9,11 +11,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="g33kzone.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="g33kzone | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="g33kzone | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br />
+<p><a href="https://github.com/manish6385" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/g33kzoneblog" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/manish-warang/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://hashnode.com/@manishwarang" target="_blank"><img alt="Hashnode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a> <a href="https://dev.to/g33kzone" target="_blank"><img alt="dev.to" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
+</p>
 
 ### Languages and Tools:
 
@@ -34,7 +33,7 @@
 <img align="left" alt="g33kzone Github Stats" src="https://github-readme-stats.vercel.app/api?username=manish6385&show_icons=true&hide_border=false" />
 <img align="left" alt="g33kzone Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manish6385&show_icons=true&hide_border=false" />
 
-[website]: https://www.g33kzone.com/
+[website]: https://blog.g33kzone.com/
 [twitter]: https://twitter.com/g33kzoneblog
 [linkedin]: https://www.linkedin.com/in/manish-warang/
 [500px]: https://500px.com/manish6385
