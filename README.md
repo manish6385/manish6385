@@ -58,9 +58,10 @@ I'm Manish, DevOps Architect from <b>Pune, India</b> <img src="https://image.fla
   <img alt="Amazon DynamoDB" src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat-square&logo=Amazon%20DynamoDB&logoColor=white" />
 </p>
 
-<img align="left" alt="g33kzone Github Stats" src="https://github-readme-stats.vercel.app/api?username=manish6385&show_icons=true&hide_border=false" />
-<img align="left" alt="g33kzone Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manish6385&show_icons=true&hide_border=false" />
-
+<h3>Stats</h3>
+<p align="center"><img alt="g33kzone Github Stats" src="https://github-readme-stats.vercel.app/api?username=manish6385&show_icons=true&hide_border=false" />
+<img  alt="g33kzone Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manish6385&show_icons=true&hide_border=false" />
+</p>
 
 <p align="center">This <i>README</i> file is generated <b>every 6 hours</b>!</br><img src="https://github.com/manish6385/manish6385/actions/workflows/blog-post-workflow.yml/badge.svg" /></p>
 
