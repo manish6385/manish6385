@@ -63,6 +63,9 @@ I'm Manish, DevOps Architect from <b>Pune, India</b> <img src="https://image.fla
 <img align="left" alt="g33kzone Github Stats" src="https://github-readme-stats.vercel.app/api?username=manish6385&show_icons=true&hide_border=false" />
 <img align="left" alt="g33kzone Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manish6385&show_icons=true&hide_border=false" />
 
+
+[![README build workflow](https://github.com/manish6385/manish6385/actions/workflows/blog-post-workflow.yml/badge.svg)](https://github.com/manish6385/manish6385/actions/workflows/blog-post-workflow.yml)
+
 [website]: https://blog.g33kzone.com/
 [twitter]: https://twitter.com/g33kzoneblog
 [linkedin]: https://www.linkedin.com/in/manish-warang/
