@@ -48,7 +48,6 @@ I'm Manish, DevOps Architect from <b>Pune, India</b> <img src="https://image.fla
   <img alt="Azure_DevOps" src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white" />
   <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white" />
   <img alt="Drone_CI" src="https://img.shields.io/badge/Drone_CI-212121?style=flat-square&logo=drone&logoColor=white" />
-  
 </p>
 
 <h3>Databases I have worked with</h3>
@@ -57,14 +56,13 @@ I'm Manish, DevOps Architect from <b>Pune, India</b> <img src="https://image.fla
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="Cassandra" src="https://img.shields.io/badge/Cassandra-1287B1?style=flat-square&logo=apache%20cassandra&logoColor=white" />
   <img alt="Amazon DynamoDB" src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat-square&logo=Amazon%20DynamoDB&logoColor=white" />
-  
 </p>
 
 <img align="left" alt="g33kzone Github Stats" src="https://github-readme-stats.vercel.app/api?username=manish6385&show_icons=true&hide_border=false" />
 <img align="left" alt="g33kzone Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manish6385&show_icons=true&hide_border=false" />
 
 
-[![README build workflow](https://github.com/manish6385/manish6385/actions/workflows/blog-post-workflow.yml/badge.svg)](https://github.com/manish6385/manish6385/actions/workflows/blog-post-workflow.yml)
+<p align="center">This <i>README</i> file is generated <b>every 6 hours</b>!</br><img src="https://github.com/manish6385/manish6385/actions/workflows/blog-post-workflow.yml/badge.svg" /></p>
 
 [website]: https://blog.g33kzone.com/
 [twitter]: https://twitter.com/g33kzoneblog
