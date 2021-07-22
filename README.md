@@ -1,7 +1,7 @@
 ### Hi there, I'm Manish - aka [g33kzone][github] 👋
 
 Welcome to my page!
-I'm Manish, DevOps Architect from <img src="https://image.flaticon.com/icons/png/512/3909/3909444.png" width="20"/> <b>Pune, India</b>
+I'm Manish, DevOps Architect from <b>Pune, India</b> <img src="https://image.flaticon.com/icons/png/512/3909/3909444.png" width="20"/>
 
 - 🔭 Currently working on a [DevOps website][website]!
 - 🌱 I’m am ardent technophile with a curious mind 🤣
@@ -27,13 +27,12 @@ I'm Manish, DevOps Architect from <img src="https://image.flaticon.com/icons/png
 <p>
   <img alt="Golang" src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
   <img alt="JSON" src="https://img.shields.io/badge/json-5E5C5C?style=flat-square&logo=json&logoColor=white" />
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white" />
   <img alt="Shell Script" src="https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=flat-square&logo=kubernetes&logoColor=white" />
+  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326ce5.svg?&style=flat-square&logo=kubernetes&logoColor=white" />
 </p>
 
 <h3>Clouds I :heart:</h3>
