@@ -26,6 +26,7 @@ I'm Manish, DevOps Architect from <b>Pune, India</b> <img src="https://image.fla
 <h3>Things I code with</h3>
 <p>
   <img alt="Golang" src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+  <img alt="Terraform" src="https://img.shields.io/badge/Terraform-%235835CC.svg?style=flat-square&logo=terraform&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
   <img alt="JSON" src="https://img.shields.io/badge/json-5E5C5C?style=flat-square&logo=json&logoColor=white" />
@@ -39,7 +40,7 @@ I'm Manish, DevOps Architect from <b>Pune, India</b> <img src="https://image.fla
 <p>
   <img alt="AWS" src="https://img.shields.io/badge/Amazon AWS-{232F3E}?style=flat-square&logo=amazonaws&logoColor=white" />
   <img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
-  <img alt="Microsoft Azure" src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white" />
+  <img alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white" />
 </p>
 
 <h3>DevOps tools</h3>
