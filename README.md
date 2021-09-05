@@ -71,7 +71,7 @@ I'm Manish, DevOps Architect from <b>Pune, India</b> <img src="https://image.fla
 
 <p align="center">This <i>README</i> file is generated <b>every 6 hours</b>!</br><img src="https://github.com/manish6385/manish6385/actions/workflows/blog-post-workflow.yml/badge.svg" /></p>
 
-[website]: https://blog.g33kzone.com/
+[website]: https://www.g33kzone.com/
 [twitter]: https://twitter.com/g33kzoneblog
 [linkedin]: https://www.linkedin.com/in/manish-warang/
 [500px]: https://500px.com/manish6385
