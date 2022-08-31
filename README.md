@@ -6,7 +6,7 @@ I'm Manish, DevOps Architect from <b>Pune, India</b> <img src="https://image.fla
 - 🔭 Currently working on a [DevOps website][website]!
 - 🌱 I’m am ardent technophile with a curious mind
 - 👯 Looking forward to collaborate with other content creators 🏃‍♂️
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute to Open Source projects
 - ⚡ Fun fact: I love to click - helps having a perspective around our lovely planet 🌏 [500px] 
 
 📕 **Latest Blog Posts**
