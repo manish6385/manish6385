@@ -11,16 +11,16 @@ I'm Manish, DevOps Architect from <b>Pune, India</b> <img src="https://image.fla
 
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Secure by Design: Integrating Security Policies from Code to Cloud with Terraform](https://dev.to/g33kzone/secure-by-design-integrating-security-policies-from-code-to-cloud-with-terraform-2opg)
+- [The Terraform Fork in the Road](https://dev.to/g33kzone/the-terraform-fork-in-the-road-532n)
+- [12 Cloud Commandments: Applying 12 Factor App Principles to Master Terraform — Part 4](https://dev.to/g33kzone/12-cloud-commandments-applying-12-factor-app-principles-to-master-terraform-part-4-3n02)
+- [12 Cloud Commandments: Applying 12 Factor App Principles to Master Terraform — Part 3](https://dev.to/g33kzone/12-cloud-commandments-applying-12-factor-app-principles-to-master-terraform-part-3-36p1)
+- [12 Cloud Commandments: Applying 12 Factor App Principles to Master Terraform — Part 2](https://dev.to/g33kzone/12-cloud-commandments-applying-12-factor-app-principles-to-master-terraform-part-2-3khc)
+- [12 Cloud Commandments: Applying 12 Factor App Principles to Master Terraform — Part 1](https://dev.to/g33kzone/12-cloud-commandments-applying-12-factor-app-principles-to-master-terraform-part-1-149c)
 - [Build AWS AMI with HashiCorp Packer using GitHub Actions](https://dev.to/g33kzone/build-aws-ami-with-hashicorp-packer-using-github-actions-5f86)
 - [Terraform -Automate CI/CD Workflows via GitHub Actions](https://dev.to/g33kzone/terraform-automate-ci-cd-workflows-via-github-actions-307j)
 - [Terraform - Code Structure](https://dev.to/g33kzone/terraform-code-structure-3nhj)
 - [Configuring Jenkins on AWS EC2 Instance](https://dev.to/g33kzone/configuring-jenkins-on-aws-ec2-instance-3apl)
-- [Jenkins - Getting Started](https://dev.to/g33kzone/jenkins-getting-started-43cd)
-- [Create AWS IAM User with Programmatic Access](https://dev.to/g33kzone/create-aws-iam-user-with-programmatic-access-1g2k)
-- [Terraform - Getting started](https://dev.to/g33kzone/terraform-getting-started-26d1)
-- [Jenkins - Docker Setup Error](https://dev.to/g33kzone/jenkins-docker-setup-error-4f8)
-- [Docker Error - Permission denied connecting Docker daemon socket](https://dev.to/g33kzone/docker-error-permission-denied-connecting-docker-daemon-socket-m20)
-- [Git - Get your configuration right](https://dev.to/g33kzone/git-get-your-configuration-right-3ngf)
 <!-- BLOG-POST-LIST:END -->
 
 ### Connect with me:
