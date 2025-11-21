@@ -11,6 +11,7 @@ I'm Manish, DevOps Architect from <b>Pune, India</b> <img src="https://image.fla
 
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [TOON: The Token Ninja](https://dev.to/g33kzone/toon-the-token-ninja-3134)
 - [Secure by Design: Integrating Security Policies from Code to Cloud with Terraform](https://dev.to/g33kzone/secure-by-design-integrating-security-policies-from-code-to-cloud-with-terraform-2opg)
 - [The Terraform Fork in the Road](https://dev.to/g33kzone/the-terraform-fork-in-the-road-532n)
 - [12 Cloud Commandments: Applying 12 Factor App Principles to Master Terraform — Part 4](https://dev.to/g33kzone/12-cloud-commandments-applying-12-factor-app-principles-to-master-terraform-part-4-3n02)
@@ -20,7 +21,6 @@ I'm Manish, DevOps Architect from <b>Pune, India</b> <img src="https://image.fla
 - [Build AWS AMI with HashiCorp Packer using GitHub Actions](https://dev.to/g33kzone/build-aws-ami-with-hashicorp-packer-using-github-actions-5f86)
 - [Terraform -Automate CI/CD Workflows via GitHub Actions](https://dev.to/g33kzone/terraform-automate-ci-cd-workflows-via-github-actions-307j)
 - [Terraform - Code Structure](https://dev.to/g33kzone/terraform-code-structure-3nhj)
-- [Configuring Jenkins on AWS EC2 Instance](https://dev.to/g33kzone/configuring-jenkins-on-aws-ec2-instance-3apl)
 <!-- BLOG-POST-LIST:END -->
 
 ### Connect with me:
